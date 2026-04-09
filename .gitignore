@@ -1,0 +1,7 @@
+.cache.sqlite
+fake_daily.csv
+real_daily.csv
+real_hourly.csv
+fake_hourly.csv
+historical_daily.csv
+historical_hourly.csv
